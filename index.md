@@ -5,10 +5,10 @@ This is a physics teaching website that I use in my courses.All the information 
 
 ####Courses
 
-* [Physics 9th grade GLM](www.google.com)
-* [Physics 10th grade GLM](www.google.com)
-* [Physics 11th grade GLM](www.google.com)
-* [Tópicos Selectos de Astronomía TRION](www.google.com)
+* [Physics 9th grade GLM](http://www.google.com)
+* [Physics 10th grade GLM](http://www.google.com)
+* [Physics 11th grade GLM](http://www.google.com)
+* [Tópicos Selectos de Astronomía TRION](http://www.google.com)
 
 
 
